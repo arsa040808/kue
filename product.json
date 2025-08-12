@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Milles Crepes",
+        "price": "Rp40.000",
+        "image": "images/kue1.svg"
+    },
+    {
+        "id": 2,
+        "name": "Cheesecake",
+        "price": "Rp50.000",
+        "image": "images/kue2.svg"
+    },
+    {
+        "id": 3,
+        "name": "Cupcake",
+        "price": "Rp30.000",
+        "image": "images/kue3.svg"
+    },
+    {
+        "id": 4,
+        "name": "Mini Dessert Box",
+        "price": "Rp150.000",
+        "image": "images/kue4.svg"
+    },
+    {
+        "id": 5,
+        "name": "Roll Cake",
+        "price": "Rp50.000",
+        "image": "images/kue5.svg"
+    },
+    {
+        "id": 6,
+        "name": "Fudgy Brownies",
+        "price": "Rp20.000",
+        "image": "images/kue6.svg"
+    }
+]
